@@ -6,4 +6,5 @@
 <div>
   <a href"https://www.linkedin.com/in/leonardo-arero-83a2441a2/">
   <img heigth=180 src="https://github-readme-stats.vercel.app/api?username=arerobarbudovisk20&theme=gotham&show_icons=true">
+  <img heigth=180 src="https://github-readme-stats.vercel.app/api/top-langs/?username=arerobarbudovisk20&hide_progress=true"
 </div>
