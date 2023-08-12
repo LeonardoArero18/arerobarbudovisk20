@@ -1,6 +1,6 @@
 ### Olá, seja bem vindo ao meu repositório! Eu sou o Leonardo Arero
 
-- 🔭 Atualmente no 5 semestre de Engenharia de Computação
+- 🔭 Atualmente no 6 semestre de Engenharia de Computação
 - 🌱 Estudando atualmente a linguagem Kotlin com foco em POO
 
 <div>
